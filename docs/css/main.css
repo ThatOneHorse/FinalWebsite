@@ -304,5 +304,8 @@ body {
         page-break-after: avoid;
     }
 }
-
+.logo{
+  width: 150px;
+  height: 300px;
+}
 
